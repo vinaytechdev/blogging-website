@@ -1,6 +1,6 @@
-# SilentScholar Blogging Web Application
+# Blogging Web Application
 
-SilentScholar is a dynamic and user-friendly blogging web application that empowers users to share their thoughts, experiences, and knowledge with the world. Built using React.js for the frontend, Appwrite as a backend service, React Hook Form for forms, and TinyMCE for the text editor, SilentScholar provides a seamless blogging experience with a range of features for users.
+This is a dynamic and user-friendly blogging web application that empowers users to share their thoughts, experiences, and knowledge with the world. Built using React.js for the frontend, Appwrite as a backend service, React Hook Form for forms, and TinyMCE for the text editor, SilentScholar provides a seamless blogging experience with a range of features for users.
 
 # Features
 
